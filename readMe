@@ -1,0 +1,9 @@
+1、please install node.js
+2、cd in your project
+3、install webpack :npm i webpack --save-dev
+4、install webpack-dev-server:npm i webpack-dev-server --save
+5、install ES2015:npm install --save-dev babel-preset-es2015 babel-preset-react
+5、run ：npm install
+6、run ：npm run build
+7、run ：npm run dev
+8、open your browser and input address ：http://localhost:8080/webpack-dev-server/
